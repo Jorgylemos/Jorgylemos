@@ -3,6 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgylemos)](https://github.com/Jorgylemos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
 
+Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
+
 ### About me
 I'm a {backend and frontend} developer.
 
