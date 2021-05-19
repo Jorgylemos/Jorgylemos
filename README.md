@@ -14,8 +14,11 @@
 - 📫 How to reach me **jorgylemos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgylemos)](https://github.com/Jorgylemos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
+
 
 Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +29,9 @@ Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgylemos&show_icons=true&locale=en" alt="jorgylemos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgylemos&" alt="jorgylemos" /></p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgylemos)](https://github.com/Jorgylemos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
 
 
 
