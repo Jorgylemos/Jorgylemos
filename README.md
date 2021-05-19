@@ -1,12 +1,5 @@
-# Hi, I'm Jorge Lemos!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgylemos)](https://github.com/Jorgylemos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
 
-Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
-
-### About me
-I'm a {backend and frontend} developer.
 
 <!-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things. -->
@@ -16,7 +9,7 @@ I'm a {backend and frontend} developer.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgylemos" alt="jorgylemos" /></a> </p>
 
-- 💬 Ask me about **Java, Python, Javascript and React**
+- 💬 Ask me about **Java, Python, Javascript and React** and i'm a {backend and frontend} developer.
 
 - 📫 How to reach me **jorgylemos@gmail.com**
 
@@ -33,3 +26,10 @@ I'm a {backend and frontend} developer.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgylemos&show_icons=true&locale=en" alt="jorgylemos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgylemos&" alt="jorgylemos" /></p>
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgylemos)](https://github.com/Jorgylemos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
+
+Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
