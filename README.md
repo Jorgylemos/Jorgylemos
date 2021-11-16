@@ -53,5 +53,5 @@ Rocketseat - https://app.rocketseat.com.br/me/jorge-lemos-desenvolvedor
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://www.linkedin.com/in/jorge-lemos-desenvolvedor/)
 
 
-
+🌈 Viva a diversidade! | Live the diversity!
 
