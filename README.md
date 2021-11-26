@@ -12,7 +12,7 @@
 > Focus on web systems `development`.
 - 💬 Ask me about **Java, Python, Mysql, NodeJs, Javascript and React** 
 
-- 📫 How to reach me? **jorgylemos@gmail.com**
+- 📫 How to reach me? **jorgylemos@outlook.com**
 
 - ❔ What will you find here? **Repositories that focus on the development of web systems and discord bots. Projects created with care and, of course, with the main objective of showing my knowledge in developing systems in languages that I learn and use in my daily life.**
 
