@@ -10,7 +10,7 @@
 
 
 > Focus on web systems `development`.
-- 💬 Ask me about **Java, Python, Mysql, NodeJs, Javascript and React** 
+- 💬 Ask me about **Java, Mysql, NodeJs, Javascript, Typescript and React** 
 
 - 📫 How to reach me? **jorgylemos@outlook.com**
 
