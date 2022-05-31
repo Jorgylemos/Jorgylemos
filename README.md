@@ -14,7 +14,7 @@
 
 - 📫 How to reach me? **jorgylemos@outlook.com**
 
-- ❔ What will you find here? **Repositories that focus on the development of web systems and discord bots. Projects created with care and, of course, with the main objective of showing my knowledge in developing systems in languages that I learn and use in my daily life.**
+- ❔ What will you find here? **Repositories that focus on the development of web systems. Projects created with care and, of course, with the main objective of showing my knowledge in developing systems in languages that I learn and use in my daily life.**
 
 > If you want to use one of my `repositories`.
 ```
