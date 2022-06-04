@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
 [![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
 
-![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev.png?raw=true)
+![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev_update.png?raw=true)
 
 <h3 align="center">Some things about me:</h3>
 <p align="center">
