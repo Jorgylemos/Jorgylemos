@@ -24,7 +24,7 @@
 - Always before developing, I like to play guitar.
 </p>
 
-![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/react-gif.gif?raw=true)
+![carbon](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)
 
 ![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev3.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
