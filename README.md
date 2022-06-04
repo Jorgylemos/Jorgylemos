@@ -27,3 +27,5 @@
 ![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev3.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
 [![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
+
+<p align="center"><img src="https://img.icons8.com/color/34/000000/react-native.png"> <img src="https://vitejs.dev/logo.svg" width="26px"> <img src="https://img.icons8.com/color/34/000000/nodejs.png"> <img src="https://img.icons8.com/color/34/000000/docker.png"> <img src="https://img.icons8.com/color/34/000000/redux.png"> <img src="https://img.icons8.com/fluency/34/000000/mysql-logo.png"> <img src="https://img.icons8.com/color/34/000000/nginx.png"></p>
