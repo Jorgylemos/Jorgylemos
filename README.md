@@ -13,7 +13,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
 
 ![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev.png?raw=true)
-![carbon](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)
 
 <h3 align="center">Some things about me:</h3>
 <p align="center">
