@@ -8,11 +8,11 @@
 <h3 align="center">Welcome to my repository.</h3>
 <h3 align="center">A passionate backend and frontend developer from Brazil</h3>
 
-![1](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev2.png?raw=true)
+![1](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev2-changecolor.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
 [![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
 
-![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev_update.png?raw=true)
+![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev_changecolor.png?raw=true)
 
 <hr>
 
@@ -46,7 +46,7 @@ if(githubPage.hasVisit){ /**@Visit ❤️ */
 
 ![carbon](https://raw.githubusercontent.com/Jorgylemos/Jorgylemos/master/assets/react-gif2.gif)
 
-![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev3.png?raw=true)
+![carbon](https://github.com/Jorgylemos/Jorgylemos/blob/master/assets/webdev3-change-color.png?raw=true)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Lemos-blue?style=social&logo=Linkedin&logoColor=blue&link=https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)](https://br.linkedin.com/in/jorge-lemos-desenvolvedor/)
 [![GitHub followers](https://img.shields.io/github/followers/JorgyLemos?label=Follow&style=social)](https://github.com/JorgyLemos/?tab=follow)
 
