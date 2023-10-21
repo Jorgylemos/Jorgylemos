@@ -16,10 +16,8 @@
 
 <hr>
 
-<div style="display: flex; items-align: center;">
-  Personal site (status): 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/f4b927ac-e89c-45e4-916a-a1ee2d1dd8f3/deploy-status)](https://app.netlify.com/sites/jorgelemos/deploys)
-</div>
+
+  Personal site (status): [![Netlify Status](https://api.netlify.com/api/v1/badges/f4b927ac-e89c-45e4-916a-a1ee2d1dd8f3/deploy-status)](https://app.netlify.com/sites/jorgelemos/deploys)
 
 ```javascript
 if(githubPage.hasVisit){ /**@Visit ❤️ */
